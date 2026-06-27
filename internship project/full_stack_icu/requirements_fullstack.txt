@@ -1,0 +1,7 @@
+kafka-python
+psycopg2-binary
+pandas
+numpy
+pyarrow
+requests
+confluent-kafka
